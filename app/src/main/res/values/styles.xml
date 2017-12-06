@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="MasterTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="MasterTheme.splash" parent="Theme.AppCompat.NoActionBar">
+
+        <item name="android:colorBackground">@color/background_material_dark</item>
+    </style>
+
+</resources>
